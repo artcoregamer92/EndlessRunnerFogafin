@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/3D/Assets/POLYGON - City Pack/POLYGON_City_Unreal_5_4_v1_13_0/Content/PolygonCity/Maps/DemoFogafin.umap"
+			]
+		}
+	]
+}
